@@ -1,6 +1,8 @@
 package com.pluralsight.donut;
 //We LOVE our delimiters!!!
 //we like our indentation
+//We like our OPERATORS
+// We use upper and lower case because we should
 /*
 * {} Curly braces
 *           Surround:
@@ -14,6 +16,8 @@ package com.pluralsight.donut;
 *              template parameter lists
 * () Parentheses
 *           Parameter list for a method
+* "" Double Quotes
+* '' Single Quotea
 *  ; Semi-colon
 *           Ends a statement
  */
